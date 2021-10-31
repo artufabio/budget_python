@@ -1,0 +1,2 @@
+Budget type: Entertainment
+Balance: 100

@@ -21,6 +21,3 @@ print(clothing_budget)
 
 print(clothing_budget.transferToOther(500, food_budget))
 print(food_budget)
-
-
-print('ciao')

@@ -1,0 +1,2 @@
+Budget type: Clothes
+Balance: 200
